@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sachi070/sachi070** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 EXPLORING THE LATENT SPACE
 
-Here are some ideas to get you started:
+<img src="Purple%20Pixel%20Stuff.gif" width="450" alt="Pixel Art Header" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### >_ INTERESTED IN AI, GOOD PROJECTS & EXPLORING
+
+---
+
+### 🛠️ THE ARSENAL
+[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,react,tailwind,github,express,postgres,prisma,mongodb,java&theme=dark&perline=5)](https://skillicons.dev)
+
+---
+
+### 📊 CONTRIBUTION PULSE
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sachi070&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachi070&theme=tokyonight" />
+</p>
+
+---
+
+### 🌙 CURRENT FOCUS
+*Architecting scalable systems and exploring the intersection of AI with modern web applications.*
+
+---
+
+</div>
