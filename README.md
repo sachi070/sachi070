@@ -8,17 +8,21 @@
 
 ---
 
-### 🛠️ THE ARSENAL
+### THE ARSENAL
 [![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,react,tailwind,github,express,postgres,prisma,mongodb,java&theme=dark&perline=5)](https://skillicons.dev)
 
 ---
 
-### 📊 CONTRIBUTION PULSE
+###  CONTRIBUTION PULSE
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sachi070&theme=tokyonight&hide_border=true" />
-  
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sachi070&theme=tokyonight" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachi070&bg_color=0d1117&color=9d4edd&line=9d4edd&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+
 
 ---
 
