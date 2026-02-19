@@ -9,7 +9,7 @@
 ---
 ### THE ARSENAL
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,fastapi,react,tailwind,github,express,postgres,prisma,mongodb,java&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,fastapi,react,tailwind,github,express,postgres,mongodb,java&theme=dark&perline=5)](https://skillicons.dev)
 
 
 ---
