@@ -29,8 +29,11 @@
 </div>
 
 ---
+
 ### 🌙 CURRENT FOCUS
 
-*Architecting scalable systems and exploring the intersection of AI with modern web applications.*
+<sub>*Architecting scalable systems and exploring the intersection of AI with modern web applications.*</sub>
+
+
 ---
 </div> 
