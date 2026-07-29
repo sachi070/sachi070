@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=tokyonight&animation=twinkling" width="100%" />
 
 # 👾 EXPLORING THE LATENT SPACE
 
@@ -8,13 +7,11 @@
 
 ### >_ INTERESTED IN AI, BUILDING COOL PROJECTS & EXPLORING SYSTEMS
 
----
 
 ## ⚡ THE ARSENAL
 
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,fastapi,react,tailwind,typescript,javascript,postgres,mongodb,mysql,java,git,github&theme=dark&perline=7)](https://skillicons.dev)
 
----
 
 ## 📈 CONTRIBUTION PULSE
 
