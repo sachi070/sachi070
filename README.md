@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,fastapi,react,tailwind,typescript,javascript,postgres,mongodb,mysql,java,git,github&theme=dark&perline=7)](https://skillicons.dev)
 
 
-## 📈 CONTRIBUTION PULSE
+##  CONTRIBUTION PULSE
 
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sachi070&theme=tokyonight&hide_border=true" />
